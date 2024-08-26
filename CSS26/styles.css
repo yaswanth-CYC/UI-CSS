@@ -1,6 +1,7 @@
 a{
     background-color: red;
 }
+
 a[target]{
     background-color: yellow;
 }
